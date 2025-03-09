@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/homeFragment"/>
+
+    <item android:title="Categories"
+        android:icon="@drawable/ic_category"
+        android:id="@+id/categoriesFragment"/>
+
+    <item android:title="Orders"
+        android:icon="@drawable/ic_order"
+        android:id="@+id/ordersFragment"/>
+
+    <item android:title="Account"
+        android:icon="@drawable/ic_accounts"
+        android:id="@+id/accountFragment"/>
+</menu>

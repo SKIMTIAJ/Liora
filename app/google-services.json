@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42524837119",
+    "project_id": "liora-ec1e8",
+    "storage_bucket": "liora-ec1e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42524837119:android:9fd8e87c065a7ac4d6b8ca",
+        "android_client_info": {
+          "package_name": "com.news.liora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnYabRDLPkpUyjcq0Ztz018lKdSzxYbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
